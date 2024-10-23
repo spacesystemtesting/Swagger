@@ -1,17 +1,18 @@
 ---
 swagger: "2.0"
 info:
-  description: "This is for internal MaD members only
-  version: "2.0
+  description: "Use for documentation of endpoints and services within MaD\
+    \ Nexus Api is a internal use service for members of MaD and users of bot."
+  version: "1.0.5"
   title: "Nexus Api"
-  termsOfService: "http://swagger.io/terms/"
+  termsOfService: "http://oauth.scfabyssal.com/terms/"
   contact:
     email: "apiteam@swagger.io"
   license:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
-host: "petstore.swagger.io"
-basePath: "/v2"
+host: "api.scfabyssal.com"
+basePath: "/"
 tags:
 - name: "pet"
   description: "Everything about your Pets"

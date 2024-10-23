@@ -1,8 +1,8 @@
 ---
-openapi: "3.1.0"
+swagger: "2.0.0"
 info:
   description: "Use for documentation of endpoints and services within MaD"
-  
+  swagger: "2.0.0"
   title: "Nexus Api"
   termsOfService: "http://oauth.scfabyssal.com/terms/"
   contact:

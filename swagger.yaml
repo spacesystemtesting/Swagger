@@ -2,7 +2,7 @@
 swagger: "2.0"
 info:
   description: "This is for internal MaD members only
-  version: "1.0.1"
+  version: "2.0
   title: "Nexus Api"
   termsOfService: "http://swagger.io/terms/"
   contact:
